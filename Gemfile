@@ -9,6 +9,7 @@ gem 'rails', '~> 5.2.3'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'font-awesome-rails'
 gem 'jquery-rails'
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
